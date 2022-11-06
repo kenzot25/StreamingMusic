@@ -37,124 +37,125 @@
 22-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:13:9-54
 23        android:supportsRtl="true"
 23-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:14:9-35
-24        android:theme="@style/Theme.RadioAva" >
-24-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:15:9-46
-25        <activity
-25-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:16:9-25:20
-26            android:name="com.toan.streammusic.SplashScreenActivity"
-26-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:17:13-49
-27            android:exported="true"
-27-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:18:13-36
-28            android:screenOrientation="portrait" >
-28-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:19:13-49
-29            <intent-filter>
-29-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:20:13-24:29
-30                <action android:name="android.intent.action.MAIN" />
-30-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:21:17-69
-30-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:21:25-66
-31
-32                <category android:name="android.intent.category.LAUNCHER" />
-32-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:23:17-77
-32-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:23:27-74
-33            </intent-filter>
-34        </activity>
-35        <activity
-35-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:26:9-30:52
-36            android:name="com.toan.streammusic.MainActivity"
-36-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:27:13-41
-37            android:configChanges="keyboardHidden|orientation|screenSize"
-37-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:28:13-74
-38            android:exported="true"
-38-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:29:13-36
-39            android:screenOrientation="portrait" />
-39-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:30:13-49
-40
-41        <service android:name="com.toan.streammusic.Service.MusicPlayerService" />
-41-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:32:9-63
-41-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:32:18-60
-42
-43        <receiver android:name="com.toan.streammusic.Broadcast.MusicPlayerBroadcastReceiver" />
-43-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:33:9-76
-43-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:33:19-73
-44
-45        <service
-45-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:29:9-35:19
-46            android:name="com.google.firebase.components.ComponentDiscoveryService"
-46-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:30:13-84
-47            android:directBootAware="true"
-47-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
-48            android:exported="false" >
-48-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:31:13-37
-49            <meta-data
-49-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:32:13-34:85
-50                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
-50-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:33:17-107
-51                android:value="com.google.firebase.components.ComponentRegistrar" />
-51-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:34:17-82
-52        </service>
-53
-54        <provider
-54-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
-55            android:name="com.google.firebase.provider.FirebaseInitProvider"
-55-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:26:13-77
-56            android:authorities="com.toan.streammusic.firebaseinitprovider"
-56-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:27:13-72
-57            android:directBootAware="true"
-57-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:28:13-43
-58            android:exported="false"
-58-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:29:13-37
-59            android:initOrder="100" />
-59-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:30:13-36
-60        <provider
-60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-61            android:name="androidx.startup.InitializationProvider"
-61-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-62            android:authorities="com.toan.streammusic.androidx-startup"
-62-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-63            android:exported="false" >
-63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-64            <meta-data
-64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-65                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-65-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-66                android:value="androidx.startup" />
-66-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
-67            <meta-data
-67-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-68                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-68-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-69                android:value="androidx.startup" />
-69-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-70        </provider>
-71
-72        <activity
-72-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-73            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-73-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-74            android:exported="false"
-74-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
-75            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-75-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-76
-77        <meta-data
-77-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d3b6d1c8ef12e6edfa34b4a9d7657a80\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
-78            android:name="com.google.android.gms.version"
-78-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d3b6d1c8ef12e6edfa34b4a9d7657a80\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
-79            android:value="@integer/google_play_services_version" />
-79-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d3b6d1c8ef12e6edfa34b4a9d7657a80\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
-80
-81        <uses-library
-81-->[androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
-82            android:name="androidx.window.extensions"
-82-->[androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
-83            android:required="false" />
-83-->[androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
-84        <uses-library
-84-->[androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
-85            android:name="androidx.window.sidecar"
-85-->[androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
-86            android:required="false" />
-86-->[androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
-87    </application>
-88
-89</manifest>
+24        android:testOnly="true"
+25        android:theme="@style/Theme.RadioAva" >
+25-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:15:9-46
+26        <activity
+26-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:16:9-25:20
+27            android:name="com.toan.streammusic.SplashScreenActivity"
+27-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:17:13-49
+28            android:exported="true"
+28-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:18:13-36
+29            android:screenOrientation="portrait" >
+29-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:19:13-49
+30            <intent-filter>
+30-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:20:13-24:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:21:17-69
+31-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:21:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:23:17-77
+33-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:23:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:26:9-30:52
+37            android:name="com.toan.streammusic.MainActivity"
+37-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:27:13-41
+38            android:configChanges="keyboardHidden|orientation|screenSize"
+38-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:28:13-74
+39            android:exported="true"
+39-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:29:13-36
+40            android:screenOrientation="portrait" />
+40-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:30:13-49
+41
+42        <service android:name="com.toan.streammusic.Service.MusicPlayerService" />
+42-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:32:9-63
+42-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:32:18-60
+43
+44        <receiver android:name="com.toan.streammusic.Broadcast.MusicPlayerBroadcastReceiver" />
+44-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:33:9-76
+44-->T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:33:19-73
+45
+46        <service
+46-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:29:9-35:19
+47            android:name="com.google.firebase.components.ComponentDiscoveryService"
+47-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:30:13-84
+48            android:directBootAware="true"
+48-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+49            android:exported="false" >
+49-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:31:13-37
+50            <meta-data
+50-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:32:13-34:85
+51                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+51-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:33:17-107
+52                android:value="com.google.firebase.components.ComponentRegistrar" />
+52-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:34:17-82
+53        </service>
+54
+55        <provider
+55-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+56            android:name="com.google.firebase.provider.FirebaseInitProvider"
+56-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+57            android:authorities="com.toan.streammusic.firebaseinitprovider"
+57-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+58            android:directBootAware="true"
+58-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+59            android:exported="false"
+59-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+60            android:initOrder="100" />
+60-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+61        <provider
+61-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+62            android:name="androidx.startup.InitializationProvider"
+62-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+63            android:authorities="com.toan.streammusic.androidx-startup"
+63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+64            android:exported="false" >
+64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+65            <meta-data
+65-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+66                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+66-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+67                android:value="androidx.startup" />
+67-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+68            <meta-data
+68-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+69                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+69-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+70                android:value="androidx.startup" />
+70-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+71        </provider>
+72
+73        <activity
+73-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+74            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+74-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+75            android:exported="false"
+75-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+76            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+76-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+77
+78        <meta-data
+78-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d3b6d1c8ef12e6edfa34b4a9d7657a80\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+79            android:name="com.google.android.gms.version"
+79-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d3b6d1c8ef12e6edfa34b4a9d7657a80\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+80            android:value="@integer/google_play_services_version" />
+80-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d3b6d1c8ef12e6edfa34b4a9d7657a80\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+81
+82        <uses-library
+82-->[androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+83            android:name="androidx.window.extensions"
+83-->[androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+84            android:required="false" />
+84-->[androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+85        <uses-library
+85-->[androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+86            android:name="androidx.window.sidecar"
+86-->[androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+87            android:required="false" />
+87-->[androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+88    </application>
+89
+90</manifest>
