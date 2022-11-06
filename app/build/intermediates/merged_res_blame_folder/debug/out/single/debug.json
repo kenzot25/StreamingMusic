@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_slider_item_layout.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/slider_item_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_vertical_artist_item_layout.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/vertical_artist_item_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_field_bg.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/field_bg.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-xhdpi_ic_download.png.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-xhdpi/ic_download.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_heart.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_inactive_button_bg.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/inactive_button_bg.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_lyric_bottom_sheet.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/lyric_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_divider_bg.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/divider_bg.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_fullscreen_close.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_fullscreen_close.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_exo_playback_control_view.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_my_music.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_my_music.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_button_bg.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_polygon.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_polygon.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-anydpi-v24_ic_download.xml.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-anydpi-v24/ic_download.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_home.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/navigation_nav_graph.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_fullscreen_open.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_fullscreen_open.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-hdpi_ic_download_small.png.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-hdpi/ic_download_small.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-xxxhdpi_ic_download_small.png.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-xxxhdpi/ic_download_small.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_artist_works.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_artist_works.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_video_player.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_video_player.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_album.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_album.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_appbar_bg.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/appbar_bg.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_horizontal_item_layout.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/horizontal_item_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/font_circular_std_light.otf.flat",
+        "source": "com.toan.streammusic.app-main-51:/font/circular_std_light.otf"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_home.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_back_stack.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_back_stack.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-hdpi_ic_download.png.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-hdpi/ic_download.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_horizontal_video_item_layout.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/horizontal_video_item_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_liked.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_liked.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_tablayout_bg.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/tablayout_bg.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-ldpi_ic_download.png.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-ldpi/ic_download.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_vertical_item_layout.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/vertical_item_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_circular_button_bg.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/circular_button_bg.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/raw_lf30_editor_pw2lhvrc.json.flat",
+        "source": "com.toan.streammusic.app-main-51:/raw/lf30_editor_pw2lhvrc.json"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_activity_splash_screen.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_music.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_music.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-mdpi_ic_download_small.png.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-mdpi/ic_download_small.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_activity_main.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_previous.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_previous.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_repeat.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_repeat.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_like.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_like.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_slider_item_gradient.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/slider_item_gradient.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_right_arrow.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_right_arrow.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-xxxhdpi_ic_download.png.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-xxxhdpi/ic_download.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-mdpi_ic_download.png.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-mdpi/ic_download.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_artist_slider_item_layout.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/artist_slider_item_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-ldpi_ic_download_small.png.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-ldpi/ic_download_small.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_album.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_album.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_player_lyric_button_bg.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/player_lyric_button_bg.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_playback_notification_layout.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/playback_notification_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/font_circular_std_book.otf.flat",
+        "source": "com.toan.streammusic.app-main-51:/font/circular_std_book.otf"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_dislike.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_dislike.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_heart_fill.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_heart_fill.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_cross.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_cross.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/raw_lf30_editor_ntjccowd.json.flat",
+        "source": "com.toan.streammusic.app-main-51:/raw/lf30_editor_ntjccowd.json"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_following.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_following.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_browse.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_browse.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_icon.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/icon.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_add_to_playlist.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_add_to_playlist.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/color_bottom_nav_item_color.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/color/bottom_nav_item_color.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_bottom_nav_center_icon.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/bottom_nav_center_icon.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_microphone.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_microphone.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_playback_large_notification_layout.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/playback_large_notification_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/font_circular_std_bold.otf.flat",
+        "source": "com.toan.streammusic.app-main-51:/font/circular_std_bold.otf"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_all_musics.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_all_musics.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/raw_lf30_editor_1omevqgr.json.flat",
+        "source": "com.toan.streammusic.app-main-51:/raw/lf30_editor_1omevqgr.json"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_all_videos.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_all_videos.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_arrow_up.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_arrow_up.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_videos.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_videos.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_pause.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_logo.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/logo.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_artists.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_artists.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_search.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_headphone.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_headphone.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_horizontal_artist_item_layout.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/horizontal_artist_item_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-xxhdpi_ic_download.png.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-xxhdpi/ic_download.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_play.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_musics_list.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_musics_list.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_search.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_background_gradient.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/background_gradient.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_detail_artist.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_detail_artist.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_loading.gif.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/loading.gif"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_show.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_show.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_followed_artists.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_followed_artists.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_videos_list.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_videos_list.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-xxhdpi_ic_download_small.png.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-xxhdpi/ic_download_small.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_shuffle.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_shuffle.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_user.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-xhdpi_ic_download_small.png.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-xhdpi/ic_download_small.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_video.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_video.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_playlist.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_playlist.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.toan.streammusic.app-main-51:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_indicator_bg.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/indicator_bg.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/layout_fragment_player.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_player.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable-anydpi-v24_ic_download_small.xml.flat",
+        "source": "com.toan.streammusic.app-pngs-44:/drawable-anydpi-v24/ic_download_small.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-merged_res-49:/drawable_ic_next.xml.flat",
+        "source": "com.toan.streammusic.app-main-51:/drawable/ic_next.xml"
+    }
+]

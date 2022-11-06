@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/vertical_item_layout.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/vertical_item_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_detail_artist.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_detail_artist.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_album.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_album.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_player.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_player.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/vertical_artist_item_layout.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/vertical_artist_item_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_artists.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_artists.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_browse.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_browse.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_musics_list.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_musics_list.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_video_player.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_video_player.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_my_music.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_my_music.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/lyric_bottom_sheet.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/lyric_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_videos.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_videos.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_videos_list.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_videos_list.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/playback_large_notification_layout.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/playback_large_notification_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/slider_item_layout.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/slider_item_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_followed_artists.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_followed_artists.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/horizontal_video_item_layout.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/horizontal_video_item_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/artist_slider_item_layout.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/artist_slider_item_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_all_musics.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_all_musics.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/exo_playback_control_view.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_artist_works.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_artist_works.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/horizontal_artist_item_layout.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/horizontal_artist_item_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_search.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_all_videos.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_all_videos.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/playback_notification_layout.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/playback_notification_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/activity_splash_screen.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_liked.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_liked.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/horizontal_item_layout.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/horizontal_item_layout.xml"
+    },
+    {
+        "merged": "com.toan.streammusic.app-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "com.toan.streammusic.app-main-51:/layout/fragment_home.xml"
+    }
+]

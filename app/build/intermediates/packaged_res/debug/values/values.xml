@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="grey">#A8A8A8</color>
+    <color name="ic_launcher_background">#161A1D</color>
+    <color name="primaryColor">#e5383b</color>
+    <color name="primaryDarkColor">#ba181b</color>
+    <color name="secondaryColor">#21252B</color>
+    <color name="secondaryDarkColor">#161a1d</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="_new">New</string>
+    <string name="albums">Albums</string>
+    <string name="app_name">RadioAva</string>
+    <string name="artists">Artists</string>
+    <string name="browse">Browser</string>
+    <string name="channel_id">music_playback</string>
+    <string name="channel_name">Music PlayBack</string>
+    <string name="download">Download</string>
+    <string name="downloaded_albums">Downloaded Albums</string>
+    <string name="downloaded_musics">Downloaded Musics</string>
+    <string name="downloaded_videos">Downloaded Videos</string>
+    <string name="follow">Follow</string>
+    <string name="followed">Followed</string>
+    <string name="followed_artist">Followed Artist</string>
+    <string name="followers">Followers</string>
+    <string name="home">Home</string>
+    <string name="hot">Hot</string>
+    <string name="latest">Latest</string>
+    <string name="liked">Liked</string>
+    <string name="listen">Listen</string>
+    <string name="lyric">Lyrics</string>
+    <string name="more">More</string>
+    <string name="most">Most</string>
+    <string name="musics">Musics</string>
+    <string name="must">Must</string>
+    <string name="my_music">My Music</string>
+    <string name="not_found">Not Found</string>
+    <string name="not_played">Nothing has been played</string>
+    <string name="nothing_to_display">There is nothing to display</string>
+    <string name="play">Play</string>
+    <string name="plays">Plays</string>
+    <string name="popular">Popular</string>
+    <string name="recently_played_musics">Recently Played Musics</string>
+    <string name="recently_played_videos">Recently Played Videos</string>
+    <string name="search">Search Music, Video, Artist</string>
+    <string name="see_more">See more</string>
+    <string name="something_went_wrong">Something went wrong. /n Check your network connection.</string>
+    <string name="top">Top</string>
+    <string name="total_musics">Total Musics</string>
+    <string name="trending">Trending</string>
+    <string name="videos">Videos</string>
+    <string name="viewed">Viewed</string>
+    <string name="watch">Watch</string>
+    <string name="welcome">Welcome To</string>
+    <string name="your_activities">Your Activities</string>
+    <string name="your_downloads">Your Downloads</string>
+    <string name="your_playlist">Your Playlist</string>
+    <style name="Theme.RadioAva" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/secondaryColor</item>
+        <item name="colorOnPrimary">@color/secondaryDarkColor</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+        <item name="android:fontFamily">@font/circular_std_light</item>
+    </style>
+    <style name="Theme.RadioAva.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.RadioAva.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.RadioAva.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="boldTitleTextAppearance">
+        <item name="android:fontFamily">@font/circular_std_bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="lightTitleTextAppearance">
+        <item name="android:fontFamily">@font/circular_std_light</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginStart">8dp</item>
+    </style>
+    <style name="pageTitleTextAppearance">
+        <item name="android:fontFamily">@font/circular_std_bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="seeMoreTextAppearance">
+        <item name="android:text">@string/see_more</item>
+        <item name="android:textColor">@color/primaryColor</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>
