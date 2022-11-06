@@ -1,0 +1,509 @@
+-- Merging decision tree log ---
+manifest
+ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.databinding:databinding-adapters:7.2.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\b05c210f753645fe81d53e1a6060a940\transformed\databinding-adapters-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.2.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\5a03bea9c14996e09299736ffbeba9db\transformed\databinding-runtime-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\acdac5f2cbc683f6da5fc65e471550df\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\295482b3cc07b30fb85e333e543e88b6\transformed\navigation-ui-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\7be29afc16e2b5a95dbb93f1b065a0ca\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Toan Dev\.gradle\caches\transforms-3\0a68ce56bd5631857a81201724bc2796\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:4.2.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\739d634a720fb9d359c4dd741d7921c6\transformed\jetified-lottie-4.2.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\0ba8392c48304102303c267140f9b72f\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\b342ce6db3a9adfe6b90a21dd841244e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\77bc63db484e4121b5617b884d59b947\transformed\jetified-lifecycle-service-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\c9ab5a780150763371d5f09fe3542bfc\transformed\jetified-exoplayer-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\7ced3a88123ca3f86a037212f1ca662d\transformed\jetified-exoplayer-ui-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\b5f024091a4be7fa44e0c4ce61b0bab7\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0-alpha02] C:\Users\Toan Dev\.gradle\caches\transforms-3\319ecf10af03077c3579b117ee226a09\transformed\recyclerview-1.3.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\6b92347e450f47d0f329958c3b042415\transformed\navigation-fragment-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.42] C:\Users\Toan Dev\.gradle\caches\transforms-3\cddc8ef18041a8bb8477e9bcd9a7a606\transformed\jetified-hilt-android-2.42\AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.smarteist:autoimageslider:1.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f6ac28721696d8f26f3abcffe6e98f2e\transformed\jetified-autoimageslider-1.4.0\AndroidManifest.xml:2:1-17:12
+MERGED from [me.tankery.lib:circularSeekBar:1.3.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\1a305d5bb0ed3df31a48a37a070ecd0c\transformed\jetified-circularSeekBar-1.3.2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\7e6c214a29ebfe2e3bca84f832ca3c74\transformed\jetified-exoplayer-smoothstreaming-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f9650452c74581e36dabefbcb4e592c1\transformed\jetified-exoplayer-dash-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\75d353591fb15eb9ab37ef2588cb3a7c\transformed\jetified-exoplayer-hls-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\1cb9cb413e66808ea4ef905b9e9f3156\transformed\jetified-exoplayer-rtsp-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\1991bff37f95424f1a0d34266ade4633\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\530bd844205562541f5dcf5ea6a5c1cf\transformed\jetified-Android-SpinKit-1.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\610d7f548c7cb391d0021f7aef65ad32\transformed\jetified-glide-4.13.0\AndroidManifest.xml:2:1-12:12
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\a9570b2622ed38f3f9cf8d828255f266\transformed\jetified-rxandroid-3.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\8fcfaf7daa4a69206aa1c128c8813d99\transformed\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\22bf52711725add6862b3ce3fdf8b25f\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\c0d124c9198932f39c0dd681eb31f570\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\ab6353ab15f6fd6f52902f12c85dc296\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\bedfce6cb2161ee125f9eea96906242c\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\c08ee31f375977191db4e78dd3d2284c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\02acabe62261d42fa1242ea7d5b9c4e1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\3dc799da1ea53cb28c833d0f9b853640\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\7c3f7de95a56156c5cd1aafe5eb1389e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\730e4a6146045f4b3f5604372666dab2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f422eec5c9f0f92902a4c641a9e888d5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\1b1e4da9943f2a81bc022ed32dc93170\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\e44fddbc6cbcedfd39f07e82e4a63310\transformed\jetified-fragment-ktx-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\86958306246361cd6b6f5d41ca2281e0\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d3b6d1c8ef12e6edfa34b4a9d7657a80\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\a5002d73f90ce68ae1b948208ad34718\transformed\fragment-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\edb26f22fb171ea5e2128f0127aa4ddb\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\776b2c811c339360a17cde36796cc8ba\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\8ef1641af1c6f609e484d542c60ae65a\transformed\navigation-runtime-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\Toan Dev\.gradle\caches\transforms-3\cd5a81b2b2a0c38b8e851eee5acdb767\transformed\jetified-activity-ktx-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\01a68e587f8f9e7d20c7d6d84d864265\transformed\jetified-activity-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.4.3] C:\Users\Toan Dev\.gradle\caches\transforms-3\5bddc74738084fa9cd2bbf6f1913afaa\transformed\media-1.4.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\77e9f4557acd6e0385d86db4f7020df5\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\428879dc264f42843caad2947aeae8c3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cde05f724a875edbb508a5687099cc6e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0-alpha01] C:\Users\Toan Dev\.gradle\caches\transforms-3\794098b819b1cc64e0d7f6edcff01aee\transformed\jetified-customview-poolingcontainer-1.0.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\535bb1f42aebdb66a1819b33f0628618\transformed\navigation-common-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\c7b22936ce7c16c559da010e9f07554b\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\1666408535aad2e2d90479b871004014\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\91f64a9aaa030dc582d555dcf433934b\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\a20d484acb1f37bf8a1a1a4bcceffeb6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\291259aef381018b795e775cf74e60b5\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\60cd9f652652aa8f3cdffd64c4d85126\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\bb47508b61ad3819bf7600216e28385e\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b0b696082913d2186adb506c1c9fe7\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\b61876fde58b3efe0c5ca0b004d346c3\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\74c16b73ef340ae3e2aafe6ce169ec0f\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\340839e232ac42ae73b0f00e758a35f7\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\dca38d3dc58d2603fc77ea76ec4bc993\transformed\lifecycle-runtime-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\231fff34a4a459f69b28034e49fff9cf\transformed\jetified-exoplayer-datasource-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\c583d96ad92e2ad1f4194f503ef8d0be\transformed\jetified-exoplayer-database-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d1f63fa8139ce81737ee7b46366f487c\transformed\jetified-exoplayer-extractor-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f386a2add1da005305704e287618c49a\transformed\jetified-exoplayer-decoder-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\73d18226b14122111e8a215ae5f35b77\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\58aa225a80c1ca3a47c9859c986b32ad\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f9ae000398e5c77f657a380cc307feeb\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0edc14a8b7bf1cb123855b374843223e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\168720c3c51c43e1f1929b15b3270365\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\135c82a62b4a4d36ce7bc3bc6331c1ed\transformed\jetified-firebase-components-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\13a80bb3ad129c41e937c5c33ca218e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\a9cc2021b587272305a19c710525a6aa\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\6ff2f303f68696cb24ed737d1010cf2d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\99ebd52700403e4b38a7312b0d286361\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\fea079c811fcdebabcd9df679e2fb862\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\86adf89d1909863424d629355caad210\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\e5cf5b513f302739c503a39219e066cf\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\5c5c5423ef5a93a5e422e81f901b894f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\fc6c033eb097d5718ab2798b67282c40\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f679257cfe0123bf466ae6f8af361c3d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.42] C:\Users\Toan Dev\.gradle\caches\transforms-3\65dd18eff8e8c24f1c13052daa3c0748\transformed\jetified-dagger-lint-aar-2.42\AndroidManifest.xml:16:1-19:12
+INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:4:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\1991bff37f95424f1a0d34266ade4633\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\1991bff37f95424f1a0d34266ade4633\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\73d18226b14122111e8a215ae5f35b77\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\73d18226b14122111e8a215ae5f35b77\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.INTERNET
+ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:6:22-74
+application
+ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:8:5-34:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\7be29afc16e2b5a95dbb93f1b065a0ca\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\7be29afc16e2b5a95dbb93f1b065a0ca\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Toan Dev\.gradle\caches\transforms-3\0a68ce56bd5631857a81201724bc2796\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Toan Dev\.gradle\caches\transforms-3\0a68ce56bd5631857a81201724bc2796\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:4.2.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\739d634a720fb9d359c4dd741d7921c6\transformed\jetified-lottie-4.2.2\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:4.2.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\739d634a720fb9d359c4dd741d7921c6\transformed\jetified-lottie-4.2.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.smarteist:autoimageslider:1.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f6ac28721696d8f26f3abcffe6e98f2e\transformed\jetified-autoimageslider-1.4.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.smarteist:autoimageslider:1.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f6ac28721696d8f26f3abcffe6e98f2e\transformed\jetified-autoimageslider-1.4.0\AndroidManifest.xml:11:5-15:19
+MERGED from [me.tankery.lib:circularSeekBar:1.3.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\1a305d5bb0ed3df31a48a37a070ecd0c\transformed\jetified-circularSeekBar-1.3.2\AndroidManifest.xml:10:5-20
+MERGED from [me.tankery.lib:circularSeekBar:1.3.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\1a305d5bb0ed3df31a48a37a070ecd0c\transformed\jetified-circularSeekBar-1.3.2\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\610d7f548c7cb391d0021f7aef65ad32\transformed\jetified-glide-4.13.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\610d7f548c7cb391d0021f7aef65ad32\transformed\jetified-glide-4.13.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\8fcfaf7daa4a69206aa1c128c8813d99\transformed\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\8fcfaf7daa4a69206aa1c128c8813d99\transformed\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\22bf52711725add6862b3ce3fdf8b25f\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\22bf52711725add6862b3ce3fdf8b25f\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:24:5-37:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\86958306246361cd6b6f5d41ca2281e0\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\86958306246361cd6b6f5d41ca2281e0\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d3b6d1c8ef12e6edfa34b4a9d7657a80\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d3b6d1c8ef12e6edfa34b4a9d7657a80\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\91f64a9aaa030dc582d555dcf433934b\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\91f64a9aaa030dc582d555dcf433934b\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\58aa225a80c1ca3a47c9859c986b32ad\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\58aa225a80c1ca3a47c9859c986b32ad\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0edc14a8b7bf1cb123855b374843223e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0edc14a8b7bf1cb123855b374843223e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\13a80bb3ad129c41e937c5c33ca218e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\13a80bb3ad129c41e937c5c33ca218e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\91f64a9aaa030dc582d555dcf433934b\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:15:9-46
+	android:name
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:9:9-51
+activity#com.toan.streammusic.SplashScreenActivity
+ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:screenOrientation
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:19:13-49
+	android:exported
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:17:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.toan.streammusic.MainActivity
+ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:26:9-30:52
+	android:screenOrientation
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:30:13-49
+	android:exported
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:29:13-36
+	android:configChanges
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:28:13-74
+	android:name
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:27:13-41
+service#com.toan.streammusic.Service.MusicPlayerService
+ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:32:9-63
+	android:name
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:32:18-60
+receiver#com.toan.streammusic.Broadcast.MusicPlayerBroadcastReceiver
+ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:33:9-76
+	android:name
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml:33:19-73
+uses-sdk
+INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.2.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\b05c210f753645fe81d53e1a6060a940\transformed\databinding-adapters-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.2.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\b05c210f753645fe81d53e1a6060a940\transformed\databinding-adapters-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\5a03bea9c14996e09299736ffbeba9db\transformed\databinding-runtime-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\5a03bea9c14996e09299736ffbeba9db\transformed\databinding-runtime-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\acdac5f2cbc683f6da5fc65e471550df\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\acdac5f2cbc683f6da5fc65e471550df\transformed\jetified-viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\295482b3cc07b30fb85e333e543e88b6\transformed\navigation-ui-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\295482b3cc07b30fb85e333e543e88b6\transformed\navigation-ui-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\7be29afc16e2b5a95dbb93f1b065a0ca\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\7be29afc16e2b5a95dbb93f1b065a0ca\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Toan Dev\.gradle\caches\transforms-3\0a68ce56bd5631857a81201724bc2796\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Toan Dev\.gradle\caches\transforms-3\0a68ce56bd5631857a81201724bc2796\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:4.2.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\739d634a720fb9d359c4dd741d7921c6\transformed\jetified-lottie-4.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:4.2.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\739d634a720fb9d359c4dd741d7921c6\transformed\jetified-lottie-4.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\0ba8392c48304102303c267140f9b72f\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\0ba8392c48304102303c267140f9b72f\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\b342ce6db3a9adfe6b90a21dd841244e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\b342ce6db3a9adfe6b90a21dd841244e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\77bc63db484e4121b5617b884d59b947\transformed\jetified-lifecycle-service-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\77bc63db484e4121b5617b884d59b947\transformed\jetified-lifecycle-service-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\c9ab5a780150763371d5f09fe3542bfc\transformed\jetified-exoplayer-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\c9ab5a780150763371d5f09fe3542bfc\transformed\jetified-exoplayer-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\7ced3a88123ca3f86a037212f1ca662d\transformed\jetified-exoplayer-ui-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\7ced3a88123ca3f86a037212f1ca662d\transformed\jetified-exoplayer-ui-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\b5f024091a4be7fa44e0c4ce61b0bab7\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\b5f024091a4be7fa44e0c4ce61b0bab7\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.0-alpha02] C:\Users\Toan Dev\.gradle\caches\transforms-3\319ecf10af03077c3579b117ee226a09\transformed\recyclerview-1.3.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.0-alpha02] C:\Users\Toan Dev\.gradle\caches\transforms-3\319ecf10af03077c3579b117ee226a09\transformed\recyclerview-1.3.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\6b92347e450f47d0f329958c3b042415\transformed\navigation-fragment-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\6b92347e450f47d0f329958c3b042415\transformed\navigation-fragment-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.42] C:\Users\Toan Dev\.gradle\caches\transforms-3\cddc8ef18041a8bb8477e9bcd9a7a606\transformed\jetified-hilt-android-2.42\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.42] C:\Users\Toan Dev\.gradle\caches\transforms-3\cddc8ef18041a8bb8477e9bcd9a7a606\transformed\jetified-hilt-android-2.42\AndroidManifest.xml:18:3-42
+MERGED from [com.github.smarteist:autoimageslider:1.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f6ac28721696d8f26f3abcffe6e98f2e\transformed\jetified-autoimageslider-1.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.smarteist:autoimageslider:1.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f6ac28721696d8f26f3abcffe6e98f2e\transformed\jetified-autoimageslider-1.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [me.tankery.lib:circularSeekBar:1.3.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\1a305d5bb0ed3df31a48a37a070ecd0c\transformed\jetified-circularSeekBar-1.3.2\AndroidManifest.xml:6:5-8:41
+MERGED from [me.tankery.lib:circularSeekBar:1.3.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\1a305d5bb0ed3df31a48a37a070ecd0c\transformed\jetified-circularSeekBar-1.3.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\7e6c214a29ebfe2e3bca84f832ca3c74\transformed\jetified-exoplayer-smoothstreaming-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\7e6c214a29ebfe2e3bca84f832ca3c74\transformed\jetified-exoplayer-smoothstreaming-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f9650452c74581e36dabefbcb4e592c1\transformed\jetified-exoplayer-dash-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f9650452c74581e36dabefbcb4e592c1\transformed\jetified-exoplayer-dash-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\75d353591fb15eb9ab37ef2588cb3a7c\transformed\jetified-exoplayer-hls-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\75d353591fb15eb9ab37ef2588cb3a7c\transformed\jetified-exoplayer-hls-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\1cb9cb413e66808ea4ef905b9e9f3156\transformed\jetified-exoplayer-rtsp-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\1cb9cb413e66808ea4ef905b9e9f3156\transformed\jetified-exoplayer-rtsp-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\1991bff37f95424f1a0d34266ade4633\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\1991bff37f95424f1a0d34266ade4633\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\530bd844205562541f5dcf5ea6a5c1cf\transformed\jetified-Android-SpinKit-1.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\530bd844205562541f5dcf5ea6a5c1cf\transformed\jetified-Android-SpinKit-1.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\610d7f548c7cb391d0021f7aef65ad32\transformed\jetified-glide-4.13.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\610d7f548c7cb391d0021f7aef65ad32\transformed\jetified-glide-4.13.0\AndroidManifest.xml:6:5-8:41
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\a9570b2622ed38f3f9cf8d828255f266\transformed\jetified-rxandroid-3.0.0\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\a9570b2622ed38f3f9cf8d828255f266\transformed\jetified-rxandroid-3.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\8fcfaf7daa4a69206aa1c128c8813d99\transformed\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\8fcfaf7daa4a69206aa1c128c8813d99\transformed\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\22bf52711725add6862b3ce3fdf8b25f\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\22bf52711725add6862b3ce3fdf8b25f\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\c0d124c9198932f39c0dd681eb31f570\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\c0d124c9198932f39c0dd681eb31f570\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\ab6353ab15f6fd6f52902f12c85dc296\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\ab6353ab15f6fd6f52902f12c85dc296\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\bedfce6cb2161ee125f9eea96906242c\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\bedfce6cb2161ee125f9eea96906242c\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\c08ee31f375977191db4e78dd3d2284c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\c08ee31f375977191db4e78dd3d2284c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\02acabe62261d42fa1242ea7d5b9c4e1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\02acabe62261d42fa1242ea7d5b9c4e1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\3dc799da1ea53cb28c833d0f9b853640\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\3dc799da1ea53cb28c833d0f9b853640\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\7c3f7de95a56156c5cd1aafe5eb1389e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\7c3f7de95a56156c5cd1aafe5eb1389e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\730e4a6146045f4b3f5604372666dab2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\730e4a6146045f4b3f5604372666dab2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f422eec5c9f0f92902a4c641a9e888d5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f422eec5c9f0f92902a4c641a9e888d5\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\1b1e4da9943f2a81bc022ed32dc93170\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\1b1e4da9943f2a81bc022ed32dc93170\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\e44fddbc6cbcedfd39f07e82e4a63310\transformed\jetified-fragment-ktx-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\e44fddbc6cbcedfd39f07e82e4a63310\transformed\jetified-fragment-ktx-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\86958306246361cd6b6f5d41ca2281e0\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\86958306246361cd6b6f5d41ca2281e0\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d3b6d1c8ef12e6edfa34b4a9d7657a80\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d3b6d1c8ef12e6edfa34b4a9d7657a80\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\a5002d73f90ce68ae1b948208ad34718\transformed\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\a5002d73f90ce68ae1b948208ad34718\transformed\fragment-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\edb26f22fb171ea5e2128f0127aa4ddb\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\edb26f22fb171ea5e2128f0127aa4ddb\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\776b2c811c339360a17cde36796cc8ba\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\776b2c811c339360a17cde36796cc8ba\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\8ef1641af1c6f609e484d542c60ae65a\transformed\navigation-runtime-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\8ef1641af1c6f609e484d542c60ae65a\transformed\navigation-runtime-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\Toan Dev\.gradle\caches\transforms-3\cd5a81b2b2a0c38b8e851eee5acdb767\transformed\jetified-activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] C:\Users\Toan Dev\.gradle\caches\transforms-3\cd5a81b2b2a0c38b8e851eee5acdb767\transformed\jetified-activity-ktx-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\01a68e587f8f9e7d20c7d6d84d864265\transformed\jetified-activity-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\01a68e587f8f9e7d20c7d6d84d864265\transformed\jetified-activity-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.3] C:\Users\Toan Dev\.gradle\caches\transforms-3\5bddc74738084fa9cd2bbf6f1913afaa\transformed\media-1.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.3] C:\Users\Toan Dev\.gradle\caches\transforms-3\5bddc74738084fa9cd2bbf6f1913afaa\transformed\media-1.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\77e9f4557acd6e0385d86db4f7020df5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\77e9f4557acd6e0385d86db4f7020df5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\428879dc264f42843caad2947aeae8c3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\428879dc264f42843caad2947aeae8c3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cde05f724a875edbb508a5687099cc6e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cde05f724a875edbb508a5687099cc6e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0-alpha01] C:\Users\Toan Dev\.gradle\caches\transforms-3\794098b819b1cc64e0d7f6edcff01aee\transformed\jetified-customview-poolingcontainer-1.0.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0-alpha01] C:\Users\Toan Dev\.gradle\caches\transforms-3\794098b819b1cc64e0d7f6edcff01aee\transformed\jetified-customview-poolingcontainer-1.0.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\535bb1f42aebdb66a1819b33f0628618\transformed\navigation-common-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] C:\Users\Toan Dev\.gradle\caches\transforms-3\535bb1f42aebdb66a1819b33f0628618\transformed\navigation-common-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\c7b22936ce7c16c559da010e9f07554b\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\c7b22936ce7c16c559da010e9f07554b\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\1666408535aad2e2d90479b871004014\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\1666408535aad2e2d90479b871004014\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\91f64a9aaa030dc582d555dcf433934b\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\91f64a9aaa030dc582d555dcf433934b\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\a20d484acb1f37bf8a1a1a4bcceffeb6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\a20d484acb1f37bf8a1a1a4bcceffeb6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\291259aef381018b795e775cf74e60b5\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\291259aef381018b795e775cf74e60b5\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\60cd9f652652aa8f3cdffd64c4d85126\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\60cd9f652652aa8f3cdffd64c4d85126\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\bb47508b61ad3819bf7600216e28385e\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\bb47508b61ad3819bf7600216e28385e\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b0b696082913d2186adb506c1c9fe7\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b0b696082913d2186adb506c1c9fe7\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\b61876fde58b3efe0c5ca0b004d346c3\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\b61876fde58b3efe0c5ca0b004d346c3\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\74c16b73ef340ae3e2aafe6ce169ec0f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\74c16b73ef340ae3e2aafe6ce169ec0f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\340839e232ac42ae73b0f00e758a35f7\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\340839e232ac42ae73b0f00e758a35f7\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\dca38d3dc58d2603fc77ea76ec4bc993\transformed\lifecycle-runtime-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\dca38d3dc58d2603fc77ea76ec4bc993\transformed\lifecycle-runtime-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\231fff34a4a459f69b28034e49fff9cf\transformed\jetified-exoplayer-datasource-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\231fff34a4a459f69b28034e49fff9cf\transformed\jetified-exoplayer-datasource-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\c583d96ad92e2ad1f4194f503ef8d0be\transformed\jetified-exoplayer-database-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\c583d96ad92e2ad1f4194f503ef8d0be\transformed\jetified-exoplayer-database-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d1f63fa8139ce81737ee7b46366f487c\transformed\jetified-exoplayer-extractor-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d1f63fa8139ce81737ee7b46366f487c\transformed\jetified-exoplayer-extractor-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f386a2add1da005305704e287618c49a\transformed\jetified-exoplayer-decoder-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f386a2add1da005305704e287618c49a\transformed\jetified-exoplayer-decoder-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\73d18226b14122111e8a215ae5f35b77\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\73d18226b14122111e8a215ae5f35b77\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\58aa225a80c1ca3a47c9859c986b32ad\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\58aa225a80c1ca3a47c9859c986b32ad\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f9ae000398e5c77f657a380cc307feeb\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f9ae000398e5c77f657a380cc307feeb\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0edc14a8b7bf1cb123855b374843223e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0edc14a8b7bf1cb123855b374843223e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\168720c3c51c43e1f1929b15b3270365\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\168720c3c51c43e1f1929b15b3270365\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\135c82a62b4a4d36ce7bc3bc6331c1ed\transformed\jetified-firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\135c82a62b4a4d36ce7bc3bc6331c1ed\transformed\jetified-firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\13a80bb3ad129c41e937c5c33ca218e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\13a80bb3ad129c41e937c5c33ca218e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\a9cc2021b587272305a19c710525a6aa\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\a9cc2021b587272305a19c710525a6aa\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\6ff2f303f68696cb24ed737d1010cf2d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\6ff2f303f68696cb24ed737d1010cf2d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\99ebd52700403e4b38a7312b0d286361\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\99ebd52700403e4b38a7312b0d286361\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\fea079c811fcdebabcd9df679e2fb862\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\fea079c811fcdebabcd9df679e2fb862\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\86adf89d1909863424d629355caad210\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\86adf89d1909863424d629355caad210\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\e5cf5b513f302739c503a39219e066cf\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\e5cf5b513f302739c503a39219e066cf\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\5c5c5423ef5a93a5e422e81f901b894f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\5c5c5423ef5a93a5e422e81f901b894f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\fc6c033eb097d5718ab2798b67282c40\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\fc6c033eb097d5718ab2798b67282c40\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f679257cfe0123bf466ae6f8af361c3d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\f679257cfe0123bf466ae6f8af361c3d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.42] C:\Users\Toan Dev\.gradle\caches\transforms-3\65dd18eff8e8c24f1c13052daa3c0748\transformed\jetified-dagger-lint-aar-2.42\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.42] C:\Users\Toan Dev\.gradle\caches\transforms-3\65dd18eff8e8c24f1c13052daa3c0748\transformed\jetified-dagger-lint-aar-2.42\AndroidManifest.xml:18:3-42
+INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+		INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+		ADDED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+		INJECTED from T:\Hoc tap\StreamingMusic\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\feef69a7505fc30d2cdd5dc0bc6367c4\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:33:17-107
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\cafd9bb6dd9d4848ec64425a5a7eb55e\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0edc14a8b7bf1cb123855b374843223e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0edc14a8b7bf1cb123855b374843223e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\0b714eb898a2c2e8facdc1d64336bb59\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Toan Dev\.gradle\caches\transforms-3\bcf35748d3426a0ade9e37dcc63349bf\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d3b6d1c8ef12e6edfa34b4a9d7657a80\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d3b6d1c8ef12e6edfa34b4a9d7657a80\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\d3b6d1c8ef12e6edfa34b4a9d7657a80\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\999191a5f54007214f46a0eb389ef7db\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan Dev\.gradle\caches\transforms-3\97b28f46804764265045ccda1fd3080f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
